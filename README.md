@@ -1,4 +1,12 @@
 # Lead Gen Agent
+## 📚 Documentation
+
+- [Agents Guide](Doc/agents.md)
+- [Setup Guide](Doc/setup.md)
+- [Email Agent](Doc/email.md)
+- [Search Agent](Doc/search.md)
+
+---
 An **AI-powered** system that finds, verifies and delivers business leads **automatically**.
 
 ## What This Does
@@ -15,7 +23,7 @@ Each agent does **one job**. Together they build a **full pipeline**.
 - Push to CRM
 
 ## Agents
-We have **9 agents** built so far.
+We have **9 agents** built so far. ✅
 
 - Lead Hunter
 - Website Scraper
@@ -59,4 +67,4 @@ python agent.py
 
 > Built by Shahrukh — AI Agent Developer 🚀
 
-
+![  ](image.png)
